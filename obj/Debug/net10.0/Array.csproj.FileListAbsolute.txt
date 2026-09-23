@@ -1,0 +1,14 @@
+C:\19528\csharp\Array\bin\Debug\net10.0\Array.exe
+C:\19528\csharp\Array\bin\Debug\net10.0\Array.deps.json
+C:\19528\csharp\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+C:\19528\csharp\Array\bin\Debug\net10.0\Array.dll
+C:\19528\csharp\Array\bin\Debug\net10.0\Array.pdb
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.dll
+C:\19528\csharp\Array\obj\Debug\net10.0\refint\Array.dll
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.pdb
+C:\19528\csharp\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+C:\19528\csharp\Array\obj\Debug\net10.0\ref\Array.dll
